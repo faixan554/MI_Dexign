@@ -10,9 +10,9 @@ function Navbar() {
           <Image className='w-14 text-white p-2 bg-blue-500 rounded-full' src="https://thumbs.dreamstime.com/b/blue-letter-b-logo-power-blue-letter-b-logo-power-logo-luxury-minimalist-badge-logo-edge-contrast-color-logo-114749609.jpg" alt="logo" />
         </a>
         <nav class="md:ml-auto flex flex-wrap items-center text-lg md:text-xl font-sans font-semibold justify-center list-none">
-          <li class="mr-5 cursor-pointer hover:text-red-600 aria-selected:text-blue-600"><Link href="/">HOME</Link></li>
-          <li class="mr-5 cursor-pointer hover:text-red-600"><Link href="/about">ABOUT ME</Link></li>
-          <li class="mr-5 cursor-pointer hover:text-red-600"><Link href="/contact">CONTACT</Link></li>
+          <li class="mr-5 cursor-pointer hover:text-red-600 aria-selected:text-blue-600"><Link rel="noreferrer" href="/">HOME</Link></li>
+          <li class="mr-5 cursor-pointer hover:text-red-600"><Link rel="noreferrer" href="/about">ABOUT ME</Link></li>
+          <li class="mr-5 cursor-pointer hover:text-red-600"><Link rel="noreferrer" href="/contact">CONTACT</Link></li>
         </nav>
       </div>
     </header>
