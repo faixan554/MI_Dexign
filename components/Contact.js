@@ -6,7 +6,7 @@ function Contact() {
     <section className="text-white bg-black body-font p-10">
         <div className="container px-5 mx-auto">
             <div className="flex flex-col text-center w-full mb-12">
-            <h1 className="sm:text-3xl text-7xl font-semibold title-font mb-4 text-white">Contact Us</h1>
+            <h1 className="sm:text-3xl text-5xl font-semibold title-font mb-4 text-white">Contact Us</h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">How may i assit you!</p>
             </div>
             <div className="lg:w-1/2 md:w-2/3 mx-auto">
