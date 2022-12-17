@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Hero from '../components/Hero'
 import Portfolio from '../components/Portfolio'
-import Testimonial from '../components/Testimonial'
 
 
 export default function Home() {
@@ -17,8 +16,6 @@ export default function Home() {
       <Hero/>
       {/* Portfolio */}
       <Portfolio/>
-      {/* Testimonials */}
-      <Testimonial/>
 
     
     </div>
