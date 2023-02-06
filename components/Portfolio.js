@@ -77,7 +77,7 @@ function Portfolio() {
     },
     {
       id: 19,
-      imageUrl: "https://assets.materialup.com/uploads/2ae2e00b-88ab-41ce-9158-f3cb903412d1/dribbbleshothd-1.png",
+      imageUrl: "https://assets.materialup.com/uploads/6738a2a1-d835-47f9-b55d-fa9089b126dd/sneakerappdesign.png",
     },
     {
       id: 20,
