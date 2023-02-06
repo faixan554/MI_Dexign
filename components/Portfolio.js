@@ -75,6 +75,14 @@ function Portfolio() {
       id: 18,
       imageUrl: "https://assets.materialup.com/uploads/312e2b40-1ec1-4d9a-9a75-cc493fd0212b/attachment.png",
     },
+    {
+      id: 19,
+      imageUrl: "https://assets.materialup.com/uploads/2ae2e00b-88ab-41ce-9158-f3cb903412d1/dribbbleshothd-1.png",
+    },
+    {
+      id: 20,
+      imageUrl: "https://assets.materialup.com/uploads/2ae2e00b-88ab-41ce-9158-f3cb903412d1/dribbbleshothd-1.png",
+    },
   ]
 
   return (
